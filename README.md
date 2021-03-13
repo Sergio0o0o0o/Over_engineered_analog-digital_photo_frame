@@ -27,6 +27,7 @@ Problems:
   4) ...
 
 
+
 V2
 The idea was to create something able to take the first photo and place it under the column of photos. In this way each photo will be shown just one time every cycle, solving the 1st problem of the previous version. I thought  about using a long linear actuator with a rubber piece at the end that could drag the first photo down the pile. A small ramp (in the frame) could leave the space for the entrance of the photo under the pile and the arm could push the photo. In this way only 2 motor were used, solving the 3rd problem.
 
@@ -37,6 +38,7 @@ Problems:
   4) ...
 
 
+
 V3
 3rd and 4th problems pushed me to think about a new version, without wasting more time. I thought about adding a moving-bridge stile actuator, to take the photo from the top of the pile (with vacuum gripper) and put it where the linear actuated arm (as in V2) will be able to push it under the pile.
 
@@ -44,6 +46,7 @@ Problems:
   1) very big;
   2) too many motors [6] (many things can go wrong, I would like to keep is simple, and it would be too noisy);
   3) ...
+
 
 
 V4
