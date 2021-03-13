@@ -19,29 +19,36 @@ ________________________________________________________________________________
 
 V1
 I thought that using two different frames was easier, so I decided that the frame had to be equipped with a small robot arm (with 9g servo motors) and a suction cup. The arm is long enough to reach the middle line of the picture box, take one photo with the suction cup (and a small 9g motor with a syringe to create vacuum) and position the photo in the other side of the frame. In this way all the photos are shown and (theoretically) it should work.
+
 Problems:
   1) very big;
   2) the photos in the middle of the column are shown more frequently than the ones at the beginning and at the end;
   3) too many motors [6] (many things can go wrong, I would like to keep is simple, and it would be too noisy);
   4) ...
 
+
 V2
 The idea was to create something able to take the first photo and place it under the column of photos. In this way each photo will be shown just one time every cycle, solving the 1st problem of the previous version. I thought  about using a long linear actuator with a rubber piece at the end that could drag the first photo down the pile. A small ramp (in the frame) could leave the space for the entrance of the photo under the pile and the arm could push the photo. In this way only 2 motor were used, solving the 3rd problem.
+
 Problems:
   1) very big;
   2) how should the design be completed?;
   3) will it work in a nearly vertical position?;
   4) ...
 
+
 V3
 3rd and 4th problems pushed me to think about a new version, without wasting more time. I thought about adding a moving-bridge stile actuator, to take the photo from the top of the pile (with vacuum gripper) and put it where the linear actuated arm (as in V2) will be able to push it under the pile.
+
 Problems:  
   1) very big;
   2) too many motors [6] (many things can go wrong, I would like to keep is simple, and it would be too noisy);
   3) ...
 
+
 V4
 the V3 pushed me to think again about the V1, a moving-bridge stile actuator could solve the 3rd problem (the worst). So I decided to give it a possibility.
+
 Problems:
   1) very big;
   2) the photos in the middle of the column are shown more frequently than the ones at the beginning and at the end;
