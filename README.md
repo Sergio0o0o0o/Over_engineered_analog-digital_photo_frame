@@ -3,7 +3,7 @@ An easy robotic way to go through your printed photos automatically
 
 Thanks to a smartphone you can go through your photos instantly, everywhere and every time. Unfortunately, this makes us lose that unique feeling: print memories and make them last forever. Somebody could confute that this is just a way to store useless and bulky stuff, but I found the way to give a "new life" to tons of photos forgotten in the basement.
 
-I uploaded all versions of my project because I would like to explain you my process from thinking to produce the object.
+I uploaded all versions of my project because I would like to explain you the entire process from the idea itselfs.
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
@@ -29,7 +29,7 @@ Problems:
 
 V2
 
-The idea was to create something able to take the first photo and place it under the column of photos. In this way each photo will be shown just one time every cycle, solving the 1st problem of the previous version. I thought  about using a long linear actuator with a rubber piece at the end that could drag the first photo down the pile. A small ramp (in the frame) could leave the space for the entrance of the photo under the pile and the arm could push the photo. In this way only 2 motor were used, solving the 3rd problem.
+The idea was to create something able to take the first photo and place it under the column of photos. In this way each photo will be shown just once every cycle, solving the 1st problem of the previous version. I thought  about using a long linear actuator with a rubber piece at the end that could drag the first photo down the pile. A small ramp (in the frame) could leave the space for the entrance of the photo under the pile and the arm could push the photo. In this way only 2 motor were used, solving the 3rd problem.
 
 Problems:
   1) very big;
@@ -39,7 +39,7 @@ Problems:
 
 V3
 
-3rd and 4th problems pushed me to think about a new version, without wasting more time. I thought about adding a moving-bridge stile actuator, to take the photo from the top of the pile (with vacuum gripper) and put it where the linear actuated arm (as in V2) will be able to push it under the pile.
+3rd and 4th problems pushed me to think about a new version, without wasting more time. I thought about adding a moving-bridge style actuator, to take the photo from the top of the pile (with vacuum gripper) and put it where the linear actuated arm (as in V2) will be able to push it under the pile.
 
 Problems:  
   1) very big;
@@ -58,6 +58,6 @@ Problems:
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-I understand that the 1sr problem of all designs won't probably be solved, I'm over it, but I think that the 2nd problem of V4 can still be solved.
+I understand that the 1st problem of all designs won't probably be solved, I'm over it, but I think that the 2nd problem of V4 can still be solved.
 
 Write me if you think you can help me or even just to ask questions about it. I will appreciate it.
