@@ -5,10 +5,17 @@ Thanks to a smartphone you can go through your photos instantly, everywhere and 
 
 I uploaded all versions of my project becouse I would like to explain you my process from thinking to produce the object.
 
+_________________________________________________________________________________________________________________________________________________________________________________
+
+
 NOTES:
   - None of this version are yet optimized for 3D printing, I will do that after we solve tha problems that we are able to see in the 3d model.
   - Every version has a list of problems that I noticed, but the las option is just "..." to encouraje you to find more, thank you for your collaboration.
   - Write me if you think you can help me or even just to ask questions about it. I will apreciate it.
+
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
 
 V1
 I thought that using two different frames was easier, so I decided that the frame had to be equipped with a small robot arm (with 9g servo motors) and a suction cup. The arm is long enough to reach the middle line of the picture box, take one photo with the suction cup (and a small 9g motor with a siringe co create vacuum) and position the photo in the other side of the frame. In this way all the photos are showen and (theoreticly) it should work.
@@ -39,6 +46,9 @@ Problems:
   1) very big;
   2) the photos in the middle of the column are showen more frequently than the ones at the beginning and at the end;
   3) ...
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
 
 I understand that the 1sr problem of all designs wont probably be solved, I'm over it, but I think that the 2nd problem of V4 can still be solved.
 
