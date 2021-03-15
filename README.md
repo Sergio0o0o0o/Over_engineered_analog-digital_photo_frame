@@ -50,7 +50,7 @@ V4
 
 the V3 pushed me to think again about the V1, a moving-bridge stile actuator could solve the 3rd problem (the worst). So I decided to give it a possibility.
 
-EDIT: I uploaded a short video to explain the project's action.
+EDIT: I uploaded a short video to explain the project's action (https://youtu.be/cvmhpcmZNPQ).
 
 Problems:
   1) very big;
