@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 
 NOTES:
-  - None of this version are yet optimized for 3D printing, I will do that after we solve the problems that we are able to see in the 3d model.
+  - None of this version are yet optimized for 3D printing (or any crating process), I will do that after we solve the problems that we are able to see in the 3D model.
   - Every version has a list of problems that I noticed, but the last option is always "..." to encourage you to find more, thank you for your collaboration.
   - Write me if you think you can help me or even just to ask questions about it. I will appreciate it.
 
@@ -57,9 +57,18 @@ Problems:
   2) the photos in the middle of the column are shown more frequently than the ones at the beginning and at the end;
   3) ...
 
+V5
+
+  I'm currently designing it.
+I think that using 2 mm plexiglass as the main build material may "solve" the 1st problem of all designs: transparent material may make the project looks smaller than it really is.
+
+Problems:
+
+  1) big;
+  2) the photos in the middle of the column are shown more frequently than the ones at the beginning and at the end;
+  3) ...
+
 _________________________________________________________________________________________________________________________________________________________________________________
 
-
-I understand that the 1st problem of all designs won't probably be solved, I'm over it, but I think that the 2nd problem of V4 can still be solved.
 
 Write me if you think you can help me or even just to ask questions about it. I will appreciate it.
