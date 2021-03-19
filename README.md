@@ -59,9 +59,9 @@ Problems:
 
 V5
 
-  I'm currently designing it.
+I'm currently designing it.
   
-I think that using 2 mm plexiglass as the main build material may "solve" the 1st problem of all designs: transparent material may make the project looks smaller than it really is.
+I think that using 2 mm plexiglass as the main material may "solve" the 1st problem of all designs: transparent material might make the project look smaller than it really is.
 
 Problems:
 
