@@ -65,9 +65,8 @@ I think that using 2 mm plexiglass as the main build material may "solve" the 1s
 
 Problems:
 
-  1) big;
-  2) the photos in the middle of the column are shown more frequently than the ones at the beginning and at the end;
-  3) ...
+  1) the photos in the middle of the column are shown more frequently than the ones at the beginning and at the end;
+  2) ...
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
