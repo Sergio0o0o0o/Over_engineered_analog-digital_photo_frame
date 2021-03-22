@@ -50,7 +50,7 @@ V4
 
 the V3 pushed me to think again about the V1, a moving-bridge stile actuator could solve the 3rd problem (the worst). So I decided to give it a possibility.
 
-EDIT: I uploaded a short video to explain the project's action (https://youtu.be/cvmhpcmZNPQ).
+Short video to explain the project's action (https://youtu.be/cvmhpcmZNPQ).
 
 Problems:
   1) very big;
@@ -60,6 +60,8 @@ Problems:
 V5
   
 I think that using 2 mm plexiglass as the main material may "solve" the 1st problem of all designs: transparent material might make the project look smaller than it really is. As suggested from you, I've also added a "single sided bridge" instead of the big one of the previous design. I really like this idea, but I'm not sure about the strength of my design. Two boxed (probably made out of plastic, to hide cables and electronics) were added.
+
+Short video to explain the project's action (https://youtu.be/H7EHHZhmTL0).
 
 Problems:
 
