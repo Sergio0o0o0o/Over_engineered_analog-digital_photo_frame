@@ -59,7 +59,7 @@ Problems:
 
 V5
   
-I think that using 2 mm plexiglass as the main material may "solve" the 1st problem of all designs: transparent material might make the project look smaller than it really is. As suggested from you, I've also added a "single sided bridge" instead of the big one of the previous design. I really like this idea, but I'm not sure about the strength of my design. 
+I think that using 2 mm plexiglass as the main material may "solve" the 1st problem of all designs: transparent material might make the project look smaller than it really is. As suggested from you, I've also added a "single sided bridge" instead of the big one of the previous design. I really like this idea, but I'm not sure about the strength of my design. Two boxed (probably made out of plastic, to hide cables and electronics) were added.
 
 Problems:
 
