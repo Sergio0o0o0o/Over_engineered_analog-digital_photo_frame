@@ -58,15 +58,14 @@ Problems:
   3) ...
 
 V5
-
-I'm currently designing it.
   
-I think that using 2 mm plexiglass as the main material may "solve" the 1st problem of all designs: transparent material might make the project look smaller than it really is.
+I think that using 2 mm plexiglass as the main material may "solve" the 1st problem of all designs: transparent material might make the project look smaller than it really is. As suggested from you, I've also added a "single sided bridge" instead of the big one of the previous design. I really like this idea, but I'm not sure about the strength of my design. 
 
 Problems:
 
   1) the photos in the middle of the column are shown more frequently than the ones at the beginning and at the end;
-  2) ...
+  2) strong enough?;
+  3) ...
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
