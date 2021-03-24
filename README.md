@@ -61,6 +61,8 @@ V5
   
 I think that using 2 mm plexiglass as the main material may "solve" the 1st problem of all designs: transparent material might make the project look smaller than it really is. As suggested from you, I've also added a "single sided bridge" instead of the big one of the previous design. I really like this idea, but I'm not sure about the strength of my design. Two boxed (probably made out of plastic, to hide cables and electronics) were added.
 
+This is a '3D models web viewer' to visualize the project from any device, to really understand how things are supposed to be: https://gmail765233.autodesk360.com/g/shares/SH919a0QTf3c32634dcfb45993f0559395db 
+
 Short video to explain the project's action (https://youtu.be/H7EHHZhmTL0).
 
 Problems:
