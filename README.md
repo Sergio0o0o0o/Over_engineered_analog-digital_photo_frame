@@ -63,7 +63,7 @@ I think that using 2 mm plexiglass as the main material may "solve" the 1st prob
 
 This is a '3D models web viewer' to visualize the project from any device, to really understand how things are supposed to be: https://gmail765233.autodesk360.com/g/shares/SH919a0QTf3c32634dcfb45993f0559395db 
 
-Short video to explain the project's action (https://youtu.be/H7EHHZhmTL0).
+Short video to explain the project's action: https://youtu.be/H7EHHZhmTL0
 
 Problems:
 
