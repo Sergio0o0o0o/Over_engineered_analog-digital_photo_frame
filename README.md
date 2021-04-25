@@ -77,6 +77,7 @@ The strength problem was solved: I added 3D printed linear bearings and 8mm meta
 
 This is a '3D models web viewer' to visualize the project from any device, to really understand how things are supposed to be:
 https://gmail765233.autodesk360.com/g/shares/SH919a0QTf3c32634dcf2fbee006fa3bc184
+
 (the f3d file was too big to be uploaded, you can download it from the link)
 
 Problems:
