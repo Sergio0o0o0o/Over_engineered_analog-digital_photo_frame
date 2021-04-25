@@ -71,6 +71,20 @@ Problems:
   2) strong enough?;
   3) ...
 
+V6
+
+The strength problem was solved: I added 3D printed linear bearings and 8mm metal rod to slide on. I also decided to change the motors: 28BYJ-48 stepper motor are still cheap, but more quiet and precise than 9g servo. I also added a 503012 hall effect sensor and a magnet, to have an absolute position of the actuators. I'm really satisfied by this design, but I still have to figure out how to add a suction cup: I think that the syringe method has too many weaknesses.
+
+This is a '3D models web viewer' to visualize the project from any device, to really understand how things are supposed to be:
+https://gmail765233.autodesk360.com/g/shares/SH919a0QTf3c32634dcf2fbee006fa3bc184
+(the f3d file was too big to be uploaded, you can download it from the link)
+
+Problems:
+
+the photos in the middle of the column are shown more frequently than the ones at the beginning and at the end;
+how should the suction cup be?;
+...
+
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
